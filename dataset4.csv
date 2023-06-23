@@ -1,0 +1,2 @@
+Start_Point,Start_Latitude,Start_Longitude,Destination_Point,Destination_Latitude,Destination_Longitude,Charging_Station_1,CS1_Latitude,CS1_Longitude,Charging_Station_2,CS2_Latitude,CS2_Longitude,Shortest_Path
+Kochi,9.9312,76.2673,Thiruvananthapuram,8.5241,76.9366,Kottayam,9.5916,76.5222,Kozhikode,11.2588,75.7804,Kochi->Kottayam->Kozhikode->Thiruvananthapuram

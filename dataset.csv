@@ -1,0 +1,2 @@
+Start_Point,Start_Latitude,Start_Longitude,Destination_Point,Destination_Latitude,Destination_Longitude,Charging_Station_1,CS1_Latitude,CS1_Longitude,Charging_Station_2,CS2_Latitude,CS2_Longitude,Shortest_Path
+Vijayawada,16.5062,80.6480,Bangalore,12.9716,77.5946,Chennai,13.0827,80.2707,Coimbatore,11.0168,76.9558,Vijayawada->Chennai->Coimbatore->Bangalore

@@ -1,0 +1,2 @@
+Start_Point,Start_Latitude,Start_Longitude,Destination_Point,Destination_Latitude,Destination_Longitude,Charging_Station_1,CS1_Latitude,CS1_Longitude,Charging_Station_2,CS2_Latitude,CS2_Longitude,Shortest_Path
+Chennai,13.0827,80.2707,Coimbatore,11.0168,76.9558,Tiruchirappalli,10.7905,78.7047,Erode,11.3410,77.7172,Chennai->Tiruchirappalli->Erode->Coimbatore

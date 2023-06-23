@@ -1,0 +1,11 @@
+district,latitude,longitude,solar_intensity,wind_speed,suitable_location
+Bengaluru,12.9716,77.5946,0.8,3.5,Yes
+Bengaluru,12.9260,77.6762,0.7,4.2,Yes
+Bengaluru,12.9081,77.6476,0.6,3.9,No
+Bengaluru,12.9714,77.7559,0.9,4.8,Yes
+Vijayawada,16.5062,80.6480,0.6,3.7,Yes
+Vijayawada,16.5236,80.6305,0.5,4.1,No
+Vijayawada,16.5075,80.6461,0.7,3.9,Yes
+Chennai,13.0827,80.2707,0.8,4.6,Yes
+Chennai,13.0674,80.2376,0.6,4.2,Yes
+Chennai,13.0380,80.2169,0.5,3.8,No

@@ -1,0 +1,2 @@
+Start_Point,Start_Latitude,Start_Longitude,Destination_Point,Destination_Latitude,Destination_Longitude,Charging_Station_1,CS1_Latitude,CS1_Longitude,Charging_Station_2,CS2_Latitude,CS2_Longitude,Shortest_Path
+Bengaluru,12.9716,77.5946,Hyderabad,17.3850,78.4867,Mysuru,12.2958,76.6394,Vellore,12.9165,79.1325,Bengaluru->Mysuru->Vellore->Hyderabad
